@@ -10,7 +10,7 @@ I'm an undergraduate at UCLA majoring in Data Theory. Taking my data science jou
 
 
 - 🔭 I’m currently working on API usage
-- :bar_chart: I’m currently experimenting with PowerBi and Tableau
+- :bar_chart: I’m currently experimenting with Power BI and Tableau
 - :video_game: Ask me about the future of the eSports industry
 - 😄 Pronouns: he/him
 - :email: How to reach me: aryansunkersett@gmail.com
