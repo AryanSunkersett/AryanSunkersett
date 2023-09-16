@@ -1,8 +1,9 @@
 ### Hello 👋 my name is Aryan!
-(https://github.com/AryanSunkersett/AryanSunkersett/blob/main/Assets/Aryan.png?raw=true)
+
+![Intro Image] (https://raw.githubusercontent.com/AryanSunkersett/AryanSunkersett/main/Assets/Aryan.png)
 
 <!--
-**AryanSunkersett/AryanSunkersett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AryanSunkersett/AryanSunkersett** is a ✨ _special_ ✨ repository because its `READM)E.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
