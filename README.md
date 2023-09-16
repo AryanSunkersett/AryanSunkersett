@@ -1,4 +1,4 @@
-![Intro Image](https://raw.githubusercontent.com/AryanSunkersett/AryanSunkersett/main/Assets/Aryan.png)
+![Intro Image](https://raw.githubusercontent.com/AryanSunkersett/AryanSunkersett/main/Assets/Aryan.jpg)
 
 I'm an undergraduate at UCLA majoring in Data Theory. Taking my data science journey one step at a time while learning new things everyday. I'm partial to Seaborn :sweat_smile: more than anything. Don't hesitate to reach out on LinkedIn or Instagram if you want to collaborate!
 
